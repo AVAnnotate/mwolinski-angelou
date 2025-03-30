@@ -16,7 +16,13 @@
     "authors": "Meriah Wolinski",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "M-Wolinski",
+        "avatar_url": "https://avatars.githubusercontent.com/u/200407047?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -108,7 +114,7 @@
       ]
     },
     "created_at": "2025-03-30T18:44:16.488Z",
-    "updated_at": "2025-03-30T20:49:47.973Z",
+    "updated_at": "2025-03-30T20:55:44.754Z",
     "generate_pages_site": true
   },
   "is_private": false
