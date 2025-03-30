@@ -1,0 +1,1 @@
+{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://AVAnnotate.github.io/mwolinski-angelou/manifests/collection.json","type":"Collection","label":{"en":["MWolinski Annotating Maya Angelou"]},"items":[{"id":"https://AVAnnotate.github.io/mwolinski-angelou/manifests/and-still-i-rise.json","type":"Manifest","label":{"en":["And Still I Rise"]}}]}
